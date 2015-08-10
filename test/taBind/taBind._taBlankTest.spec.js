@@ -43,7 +43,8 @@ describe('taBind._taBlankTest', function () {
                                                             '<div id="bodyreadMessagePartBodyControl1609f" class="ExternalClass MsgBodyContainer">' +
                                                                 '<p><u><b>Lorem ipsum</b></u></p>' +
                                                                 '<p><b>Lorem ipsum</b></p>' +
-				'</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>'
+				'</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>',
+				'<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Big_Bear_Valley,_California.jpg"></img>'
 			],
 			testString(false)
 		);
